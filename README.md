@@ -1,4 +1,4 @@
 # Python_Basics
-Here, i amhi uploading basics of python
+Here, i am uploading basics of python
 <br>
 Author - Prajwal Katkar
