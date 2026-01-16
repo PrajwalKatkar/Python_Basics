@@ -11,7 +11,6 @@
 
 class Employee:
     a= 1
-
     @classmethod
     def show(cls):
         print(f"This is Employee class {cls.a}")
