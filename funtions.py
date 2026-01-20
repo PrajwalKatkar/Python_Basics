@@ -21,8 +21,7 @@
 # print(avg)
 # if i want to calculate this 50 times it would be difficult to do so functions are used 
 
-
-# Function defination
+# function defination
 def avg():
     a = int(input("Enter Your Number : "))
     b = int(input("Enter Your Number : "))
@@ -34,4 +33,5 @@ def avg():
 avg()
 avg()
 avg()
+
 avg()
