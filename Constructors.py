@@ -8,10 +8,10 @@ class Employee:
         self.language = language
         self.salary = salary
         
-
 harry = Employee("prajwal", "javascript",12000)
 print(harry.name,harry.language,harry.salary)  
 harry = Employee("rashid", "python",12000)
 print(harry.name,harry.language,harry.salary)  
+
 
 harry.age = 20 #this is instance attribute
